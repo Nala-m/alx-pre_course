@@ -1,2 +1,1 @@
-git fetch --all
-git show origin/master:README.me
+git pull
