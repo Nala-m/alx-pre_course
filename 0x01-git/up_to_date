@@ -1,1 +1,2 @@
-git show origin/master:README.md
+git fetch --all
+git show origin/master:README.me
